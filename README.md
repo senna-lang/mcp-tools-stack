@@ -1,4 +1,4 @@
-# MPC Server プロジェクト
+# mcp-tools-stack
 
 このリポジトリには、ClaudeやClineなどのAIアシスタントが外部サービスと連携するためのModel Context Protocol (MCP) サーバーが含まれています。
 
