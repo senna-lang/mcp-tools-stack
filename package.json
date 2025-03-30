@@ -2,6 +2,7 @@
   "dependencies": {
     "@liuyoshio/mcp-compass": "^1.0.7",
     "@modelcontextprotocol/server-filesystem": "^2025.1.14",
+    "@modelcontextprotocol/server-github": "^2025.3.28",
     "@suekou/mcp-notion-server": "^1.0.2"
   }
 }
